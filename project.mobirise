@@ -1,0 +1,117 @@
+{
+  "settings": {
+    "name": "Deklinabidea",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise4",
+      "title": "Mobirise 4",
+      "styling": {
+        "primaryColor": "#149dcc",
+        "secondaryColor": "#cc1429",
+        "successColor": "#F7ED4A",
+        "infoColor": "#82786E",
+        "warningColor": "#879A9F",
+        "dangerColor": "#B1A374",
+        "mainFont": "Rubik",
+        "display1Font": "Francois One",
+        "display1Size": 4.25,
+        "display2Font": "Francois One",
+        "display2Size": 3,
+        "display5Font": "Francois One",
+        "display5Size": 1.5,
+        "display7Font": "Francois One",
+        "display7Size": 1,
+        "display4Font": "Francois One",
+        "display4Size": 1,
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#cc1429"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [
+      {
+        "css": "'Francois One', sans-serif",
+        "name": "Francois One",
+        "url": "https://fonts.googleapis.com/css?family=Francois+One:400"
+      }
+    ],
+    "versionFirst": "4.7.6",
+    "uniqCompNum": 9,
+    "versionPublish": "4.10.5",
+    "favicon": "",
+    "noImageResize": "",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "P": {
+              "color": "#767676"
+            },
+            "H1": {
+              "color": "#cc1429"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#232323"
+            }
+          },
+          "_name": "header16",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#149dcc\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    DEKLINABIDEA</h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Hizkuntzan trebatzen</b></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://hezkuntza-my.sharepoint.com/:b:/g/personal/etxebarriaelorrieta_irakasle_eus/Eee6qXBcBIlAp9EZbLoVTI4BC7Ks1K5yRoA7Nd40Xgm3Mg?e=3aaxXq\" data-app-placeholder=\"Type Text\" target=\"_blank\">TAULAK</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_cid": "rwbA7TW98N",
+          "_anchor": "header16-3",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            "DIV": {
+              "color": "#cc1429"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\">•&nbsp;<a href=\"https://h5p.org/h5p/embed/549622\" target=\"_blank\">NOR KASUA</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/549861\" target=\"_blank\">ZERIK KASUA</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/549925\" target=\"_blank\">NORK KASUA</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/550315\" target=\"_blank\">NORI KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/550420\" target=\"_blank\">NOREN KASUA\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/550434\" target=\"_blank\">NORENTZAT KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/550450\" target=\"_blank\">NORGATIK KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/550478\" target=\"_blank\">NOREKIN KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551255\" target=\"_blank\">ZEREZ KASUA\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551316\" target=\"_blank\">ZERTZAT KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551704\" target=\"_blank\">NON KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551806\" target=\"_blank\">NONGO KASUA\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551825\" target=\"_blank\">NONDIK KASUA\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551846\" target=\"_blank\">NORA KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551873\" target=\"_blank\">NORAKO KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551873\" target=\"_blank\">NORAINO KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551900\" target=\"_blank\">NORANTZ KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551953\" target=\"_blank\">NORENGAN KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551961\" target=\"_blank\">NORENGANDIK KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551994\" target=\"_blank\">NORENGANA KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/552000\" target=\"_blank\">NORENGANAINO KASUA\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/552004\" target=\"_blank\">NORENGANANTZ KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• DEKLINABIDEA NAHASI<span style=\"font-size: 1.09rem;\">AN</span><span style=\"font-size: 1.09rem;\">\n:</span></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp; → <a href=\"https://h5p.org/h5p/embed/552265\" target=\"_blank\">NOR - ZERIK - NORK</a></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp; → <a href=\"https://h5p.org/h5p/embed/552271\" target=\"_blank\">NOREN - NONGO</a></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp; → <a href=\"https://h5p.org/h5p/embed/552272\" target=\"_blank\">NONDIK-NORA || NORENGANDIK-NORENGANA</a></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp; → <a href=\"https://h5p.org/h5p/embed/552462\" target=\"_blank\">Mugagabea</a></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp; → <a href=\"https://h5p.org/h5p/embed/552275\" target=\"_blank\">Deklinabidea nahasian</a></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp; → <a href=\"https://h5p.org/h5p/embed/552281\" target=\"_blank\">Deklinabidea eta aditza</a></span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rwbB700ua3",
+          "_anchor": "content2-7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    }
+  }
+}

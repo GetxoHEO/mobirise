@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Deklinabidea",
+    "name": "Deklinabidea-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -28,7 +28,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#cc1429"
+        "#cc1429",
+        "#0087ff"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -40,7 +41,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 9,
+    "uniqCompNum": 25,
     "versionPublish": "4.10.5",
     "favicon": "",
     "noImageResize": "",
@@ -106,6 +107,447 @@
           "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\">•&nbsp;<a href=\"https://h5p.org/h5p/embed/549622\" target=\"_blank\">NOR KASUA</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/549861\" target=\"_blank\">ZERIK KASUA</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/549925\" target=\"_blank\">NORK KASUA</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/550315\" target=\"_blank\">NORI KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/550420\" target=\"_blank\">NOREN KASUA\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/550434\" target=\"_blank\">NORENTZAT KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/550450\" target=\"_blank\">NORGATIK KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/550478\" target=\"_blank\">NOREKIN KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551255\" target=\"_blank\">ZEREZ KASUA\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551316\" target=\"_blank\">ZERTZAT KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551704\" target=\"_blank\">NON KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551806\" target=\"_blank\">NONGO KASUA\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551825\" target=\"_blank\">NONDIK KASUA\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551846\" target=\"_blank\">NORA KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551873\" target=\"_blank\">NORAKO KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551873\" target=\"_blank\">NORAINO KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551900\" target=\"_blank\">NORANTZ KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551953\" target=\"_blank\">NORENGAN KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551961\" target=\"_blank\">NORENGANDIK KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/551994\" target=\"_blank\">NORENGANA KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/552000\" target=\"_blank\">NORENGANAINO KASUA\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/552004\" target=\"_blank\">NORENGANANTZ KASUA</a>\n</span></p><p><span style=\"font-style: normal;\">• DEKLINABIDEA NAHASI<span style=\"font-size: 1.09rem;\">AN</span><span style=\"font-size: 1.09rem;\">\n:</span></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp; → <a href=\"https://h5p.org/h5p/embed/552265\" target=\"_blank\">NOR - ZERIK - NORK</a></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp; → <a href=\"https://h5p.org/h5p/embed/552271\" target=\"_blank\">NOREN - NONGO</a></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp; → <a href=\"https://h5p.org/h5p/embed/552272\" target=\"_blank\">NONDIK-NORA || NORENGANDIK-NORENGANA</a></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp; → <a href=\"https://h5p.org/h5p/embed/552462\" target=\"_blank\">Mugagabea</a></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp; → <a href=\"https://h5p.org/h5p/embed/552275\" target=\"_blank\">Deklinabidea nahasian</a></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp; → <a href=\"https://h5p.org/h5p/embed/552281\" target=\"_blank\">Deklinabidea eta aditza</a></span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rwbB700ua3",
           "_anchor": "content2-7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Euskaltzaindiaren arauak",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "P": {
+              "color": "#767676"
+            },
+            "H1": {
+              "color": "#cc1429"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#232323"
+            }
+          },
+          "_name": "header16",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#149dcc\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    EUSKALTZAINDIAREN ARAUAK</h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Hizkuntzan trebatzen</b></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://www.euskaltzaindia.eus/hizkuntza-baliabideak/baliabide-orokorrak/arauak\" data-app-placeholder=\"Type Text\" target=\"_blank\">ARAU GUZTIAK</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_cid": "rwBkqWOJAB",
+          "_anchor": "header16-9",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            "DIV": {
+              "color": "#cc1429"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554615\" target=\"_blank\">Bat-batean, behinik behin, batik bat\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554625\" target=\"_blank\">Baitu, baikara, bainaiz</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554633\" target=\"_blank\">Aurrealde edo aurreko alde</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554640\" target=\"_blank\">Hau guz(t)ia</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554646\" target=\"_blank\">Ene/nire, nirekin, niri</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554648\" target=\"_blank\">Arrain, usain, artzain</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554656\" target=\"_blank\">Zenbakien idazkeraz</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554660\" target=\"_blank\">Zenbakien deklinabideaz (hiru, lau)</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554665\" target=\"_blank\">Bat eta batzuk-en deklinabidea</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554665\" target=\"_blank\">Hiru kiloko haurra, lau hankako mahaia</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554695\" target=\"_blank\">Ordinalen eta banatzaileen idazkera</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554719\" target=\"_blank\">Zio</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554721\" target=\"_blank\">Nornahi, nonahi, non-nahi</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554722\" target=\"_blank\">Nor/nortzuk, zer/zertzuk, zein/zeintzuk</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554730\" target=\"_blank\">Partitiboaren erabilera okerra</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554759\" target=\"_blank\">Partitiboa baiezko perpausetan noiz eta nola</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554761\" target=\"_blank\">Zu izan ezik</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554762\" target=\"_blank\">Benetako. Ohiko</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554765\" target=\"_blank\">Betiko eta horren kideak</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554767\" target=\"_blank\">Arabera eta Iritzi</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554770\" target=\"_blank\">Aditzoinen forma</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554775\" target=\"_blank\">Adizki perifrastikoetako adizki nagusiaren forma</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554798\" target=\"_blank\">Arazi</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554823\" target=\"_blank\">Arazi aditzaren erregimena</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554835\" target=\"_blank\">Ba- eta gabe-ren idazkera</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554870\" target=\"_blank\">Hitz elkartuen osaera eta idazkera</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554892\" target=\"_blank\">-z gero</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554895\" target=\"_blank\">Hori eta, hori edo, eta horrelakoen idazkera</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554902\" target=\"_blank\">Diptongoz bukatzen diren izenen deklinabidea</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554924\" target=\"_blank\">Ekartzea merezi du</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554928\" target=\"_blank\">Ongi etorri!</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554931\" target=\"_blank\">Orduak nola esan</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554934\" target=\"_blank\">Data nola adierazi</a> \n</span></p><p><span style=\"font-style: normal;\">•  <a href=\"https://h5p.org/h5p/embed/554936\" target=\"_blank\">Zenbait aditzen erregimena (gonbidatu, iguriki, itxoin, itxaron, deitu, lagundu)</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554937\" target=\"_blank\">Topiko(a) bihurtu</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554928\" target=\"_blank\">Egiteko asmoz</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554945\" target=\"_blank\">Lehenago etorriko zen; lehenago asmatuko zuen</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554948\" target=\"_blank\">-ARI (-lari) atzizkiaz</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554954\" target=\"_blank\">-ARI / -ARIO</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554966\" target=\"_blank\">-go atzizkia eta izen multzokariak</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554970\" target=\"_blank\">Komunztadura aposizioetan</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554979\" target=\"_blank\">Izen sintagmen arteko juntadura dela eta</a>\n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554981\" target=\"_blank\">Behar izan aditzaren jokabidea aditz iragangaitzekin</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554991\" target=\"_blank\">Nahi / gura izan aditzen jokabidea aditz iragangaitzekin</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554996\" target=\"_blank\">Zehar galdera orokorretako aditz-atzizkia: -(e)n eta -(e)netz</a> \n</span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/554998\" target=\"_blank\">-eLAKO eta -eN atzizkiak izenak gobernaturiko perpaus osagarrietan</a> \n</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rwBkqY90sw",
+          "_anchor": "content2-a",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Aditza",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "P": {
+              "color": "#767676"
+            },
+            "H1": {
+              "color": "#cc1429"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#232323"
+            }
+          },
+          "_name": "header16",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#149dcc\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    ADITZA</h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Hizkuntzan trebatzen</b></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://hezkuntza-my.sharepoint.com/:b:/g/personal/etxebarriaelorrieta_irakasle_eus/EdF4SJ3D2ZlPqbu_01EajWsBsDopQJeQNTACVk6OgoqTxA?e=MYAx8Q\" data-app-placeholder=\"Type Text\" target=\"_blank\">TAULAK</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_cid": "rwBoW2c9We",
+          "_anchor": "header16-b",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            "DIV": {
+              "color": "#cc1429"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/555506\" target=\"_blank\">Indikatiboa\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/555512\" target=\"_blank\">Trinkoak\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/555521\" target=\"_blank\">Baldintza\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/555525\" target=\"_blank\">Ahalera\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/555528\" target=\"_blank\">Subjuntiboa\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/555530\" target=\"_blank\">Lagundu laguntzaileei\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/555534\" target=\"_blank\">Aditz laguntzailea 1\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/555557\" target=\"_blank\">Aditz laguntzailea 2\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/555560\" target=\"_blank\">Aditz laguntzailea 3\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/555561\" target=\"_blank\">Aditz laguntzailea 4\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/555563\" target=\"_blank\">Aditz laguntzailea 5\n</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/555564\" target=\"_blank\">Aditz laguntzailea 6\n</a></span></p><p><span style=\"font-style: normal;\">• OSAGARRIAK:\n</span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp;→ <a href=\"https://sites.google.com/site/euskaladitza/\" target=\"_blank\">Euskaljakintza</a>\n</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rwBoW3yzx2",
+          "_anchor": "content2-c",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Hiztegia",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 6
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "P": {
+              "color": "#767676"
+            },
+            "H1": {
+              "color": "#cc1429"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#232323"
+            }
+          },
+          "_name": "header16",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#149dcc\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    HIZTEGIA</h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Hizkuntzan trebatzen</b></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://www.euskaltzaindia.eus/index.php?option=com_hiztegianbilatu&view=frontpage&Itemid=410&lang=eu\" data-app-placeholder=\"Type Text\" target=\"_blank\">Euskaltzaindiaren HIZTEGIA</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_cid": "rwKJmDZ3Hp",
+          "_anchor": "header16-d",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card-img": {
+              "background-color": "#fff"
+            },
+            ".card-box": {
+              "padding": "2rem",
+              "& when (@crdBg)": {
+                "background-color": "@crdColor"
+              }
+            },
+            "h4": {
+              "font-weight": "500",
+              "margin-bottom": "0",
+              "text-align": "left"
+            },
+            "p": {
+              "text-align": "left"
+            },
+            ".mbr-text": {
+              "color": "#767676",
+              "text-align": "left"
+            },
+            ".card-wrapper": {
+              "height": "100%",
+              "box-shadow": "0px 0px 0px 0px rgba(0, 0, 0, 0)",
+              "transition": "box-shadow 0.3s",
+              "&:hover": {
+                "box-shadow": "0px 0px 30px 0px rgba(0, 0, 0, 0.05)",
+                "transition": "box-shadow 0.3s"
+              }
+            },
+            "@media (min-width: 992px)": {
+              ".my-col": {
+                "flex": "0 0 20%",
+                "max-width": "20%",
+                "padding": "15px",
+                "-webkit-flex": "0 0 20%"
+              }
+            }
+          },
+          "_name": "features17",
+          "_customHTML": "<section class=\"features17\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Card Background\" name=\"crdBg\" checked>\n        <input type=\"color\" title=\"Card Color\" name=\"crdColor\" value=\"#ffffff\" condition=\"crdBg\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\" selected>6</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background7.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#efefef\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container-fluid\">\n        <div class=\"media-container-row\" mbr-cards=\"bootstrap\">\n            <div class=\"card p-3 col-12 col-md-6\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3',\n                             'col-lg-2': cardsAmount == '6',\n                             'my-col': cardsAmount=='5'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/esamoldeak-1-376x376.png\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">____________________________</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">• <a href=\"https://h5p.org/h5p/embed/555804\" target=\"_blank\">Esamoldeak 1</a><br>• <a href=\"https://h5p.org/h5p/embed/555814\" target=\"_blank\">Esamoldeak 2</a><br>• <a href=\"https://h5p.org/h5p/embed/555884\" target=\"_blank\">Esamoldeak 3\n</a><br>• <a href=\"https://h5p.org/h5p/embed/555887\" target=\"_blank\">Esamoldeak 4\n</a><br>• <a href=\"https://h5p.org/h5p/embed/555892\" target=\"_blank\">Esamoldeak 5</a>\n<br>• <a href=\"https://h5p.org/h5p/embed/555897\" target=\"_blank\">Esamoldeak 6\n</a><br>• <a href=\"https://h5p.org/h5p/embed/555902\" target=\"_blank\">Esamoldeak 7</a>\n<br>• <a href=\"https://h5p.org/h5p/embed/555906\" target=\"_blank\">Esamoldeak 8</a>\n<br>• <a href=\"https://h5p.org/h5p/embed/555911\" target=\"_blank\">Esamoldeak 9</a>\n<br>• <a href=\"https://h5p.org/h5p/embed/555915\" target=\"_blank\">Esamoldeak 10\n</a><br>• <a href=\"https://h5p.org/h5p/embed/555917\" target=\"_blank\">Esamoldeak 11\n</a><br>• <a href=\"https://h5p.org/h5p/embed/555925\" target=\"_blank\">Esamoldeak 12\n</a><br>• <a href=\"https://h5p.org/h5p/embed/555925\" target=\"_blank\">Esamoldeak 13\n</a><br>• <a href=\"https://h5p.org/h5p/embed/555934\" target=\"_blank\">Esamoldeak 14</a>&nbsp;<br>• <a href=\"https://h5p.org/h5p/embed/556526\" target=\"_blank\">Esamoldeak 15</a><br>• <a href=\"https://h5p.org/h5p/embed/556534\" target=\"_blank\">Esamoldeak 16</a></p>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3',\n                             'col-lg-2': cardsAmount == '6',\n                             'my-col': cardsAmount=='5'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/definizioak-1-376x376.png\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            ____________________________</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            • <a href=\"https://h5p.org/h5p/embed/556587\" target=\"_blank\">Definizioak 1</a><br>• <a href=\"https://h5p.org/h5p/embed/555942\" target=\"_blank\">Definizioak 2</a><br>• <a href=\"https://h5p.org/h5p/embed/555947\" target=\"_blank\">Definizioak 3</a><br>• <a href=\"https://h5p.org/h5p/embed/555950\" target=\"_blank\">Definizioak 4</a><br>• <a href=\"https://h5p.org/h5p/embed/555956\" target=\"_blank\">Definizioak 5</a><br>• <a href=\"https://h5p.org/h5p/embed/556582\" target=\"_blank\">Definizioak 6</a><a href=\"https://h5p.org/h5p/embed/555956\" target=\"_blank\"><br></a><a href=\"https://h5p.org/h5p/embed/555950\" target=\"_blank\"><br></a><br></p>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3',\n                             'col-lg-2': cardsAmount == '6',\n                             'my-col': cardsAmount=='5'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/sinonimoak-1-376x376.png\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            ____________________________</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            • <a href=\"https://h5p.org/h5p/embed/556253\" target=\"_blank\">Sinonimoak 1</a><br>• <a href=\"https://h5p.org/h5p/embed/556257\" target=\"_blank\">Sinonimoak 2</a><br>• <a href=\"https://h5p.org/h5p/embed/556265\" target=\"_blank\">Sinonimoak 3</a><br>• <a href=\"https://h5p.org/h5p/embed/556553\" target=\"_blank\">Sinonimoak 4</a><br>• <a href=\"https://h5p.org/h5p/embed/556563\" target=\"_blank\">Sinonimoak 5</a><br>• <a href=\"https://h5p.org/h5p/embed/556565\" target=\"_blank\">Sinonimoak 6</a></p>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 3\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3',\n                             'col-lg-2': cardsAmount == '6',\n                             'my-col': cardsAmount=='5'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/hautatu-baliokidea-376x376.png\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            ____________________________</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">• <a href=\"https://h5p.org/h5p/embed/556218\" target=\"_blank\">Hautatu 1</a>&nbsp;<br>• <a href=\"https://h5p.org/h5p/embed/556236\" target=\"_blank\">Hautatu 2</a><br>• <a href=\"https://h5p.org/h5p/embed/556240\" target=\"_blank\">Hautatu 3</a><br>• <a href=\"https://h5p.org/h5p/embed/556243\" target=\"_blank\">Hautatu 4</a><br></p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 4\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3',\n                             'col-lg-2': cardsAmount == '6',\n                             'my-col': cardsAmount=='5'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/hiztegia-eta-ort-376x376.png\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            ____________________________</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">• <a href=\"https://h5p.org/h5p/embed/556138\" target=\"_blank\">Hiztegi Batua 1\n</a><br>• <a href=\"https://h5p.org/h5p/embed/555984\" target=\"_blank\">Hiztegi Batua 2</a>\n<br>• <a href=\"https://h5p.org/h5p/embed/556155\" target=\"_blank\">Hiztegi Batua 3\n</a><br>• <a href=\"https://h5p.org/h5p/embed/556156\" target=\"_blank\">Hiztegi Batua 4</a>\n<br>• <a href=\"https://h5p.org/h5p/embed/556158\" target=\"_blank\">Hiztegi Batua 5</a>\n<br>• <a href=\"https://h5p.org/h5p/embed/556167\" target=\"_blank\">Hiztegi Batua 6\n</a><br>• <a href=\"https://h5p.org/h5p/embed/556171\" target=\"_blank\">Hiztegi Batua 7</a>\n<br>• <a href=\"https://h5p.org/h5p/embed/556182\" target=\"_blank\">Hiztegi Batua 8\n</a><br>• <a href=\"https://h5p.org/h5p/embed/556184\" target=\"_blank\">Hiztegi Batua 9\n</a><br>• <a href=\"https://h5p.org/h5p/embed/556187\" target=\"_blank\">Hiztegi Batua 10</a>\n<br>• <a href=\"https://h5p.org/h5p/embed/556191\" target=\"_blank\">Hiztegi Batua 11</a>\n<br>• <a href=\"https://h5p.org/h5p/embed/556198\" target=\"_blank\">Hiztegi Batua 12</a>\n<br>• <a href=\"https://h5p.org/h5p/embed/556201\" target=\"_blank\">Hiztegi Batua 13</a>\n<br>• <a href=\"https://h5p.org/h5p/embed/556204\" target=\"_blank\">Hiztegi Batua 14</a>&nbsp;<br></p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 5\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3',\n                             'col-lg-2': cardsAmount == '6',\n                             'my-col': cardsAmount=='5'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/saski-naskia-1-376x376.png\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            ____________________________</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">• <a href=\"https://h5p.org/h5p/embed/557342\" target=\"_blank\">Saski-naskia 1</a><br>• <a href=\"https://h5p.org/h5p/embed/557344\" target=\"_blank\">Saski-naskia 2</a><br>• <a href=\"https://h5p.org/h5p/embed/557347\" target=\"_blank\">Saski-naskia 3</a><br>• <a href=\"https://h5p.org/h5p/embed/557352\" target=\"_blank\">Saski-naskia 4</a><br>• <a href=\"https://h5p.org/h5p/embed/557355\" target=\"_blank\">Saski-naskia 5</a><br>• <a href=\"https://h5p.org/h5p/embed/557374\" target=\"_blank\">Saski-naskia 6</a><br>• <a href=\"https://h5p.org/h5p/embed/557385\" target=\"_blank\">Saski-naskia 7</a><br>• <a href=\"https://h5p.org/h5p/embed/557394\" target=\"_blank\">Saski-naskia 8</a><br>• <a href=\"https://h5p.org/h5p/embed/557485\" target=\"_blank\">Saski-naskia 9</a><br>• <a href=\"https://h5p.org/h5p/embed/557497\" target=\"_blank\">Saski-naskia 10</a><br>• <a href=\"https://h5p.org/h5p/embed/557507\" target=\"_blank\">Saski-naskia 11</a><br>• <a href=\"https://h5p.org/h5p/embed/557527\" target=\"_blank\">Saski-naskia 12</a><br>• <a href=\"https://h5p.org/h5p/embed/557535\" target=\"_blank\">Saski-naskia 13</a><br>• <a href=\"https://h5p.org/h5p/embed/557548\" target=\"_blank\">Saski-naskia 14</a><br></p>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rwKK7vJP1O",
+          "_anchor": "features17-f",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Morfosintaxia",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "P": {
+              "color": "#767676"
+            },
+            "H1": {
+              "color": "#cc1429"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#232323"
+            }
+          },
+          "_name": "header16",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#149dcc\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    MORFOSINTAXIA</h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Hizkuntzan trebatzen</b></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"http://www.irale.hezkuntza.net/web/guest/morfosintaxia\" data-app-placeholder=\"Type Text\" target=\"_blank\">ZALANTZAK</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_cid": "rx9nuZxVCH",
+          "_anchor": "header16-g",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "h4": {
+              "font-weight": "500",
+              "margin-bottom": "0",
+              "text-align": "left"
+            },
+            "p": {
+              "color": "#767676",
+              "text-align": "left"
+            },
+            ".card-box": {
+              "padding-top": "2rem"
+            },
+            ".card-wrapper": {
+              "height": "100%"
+            }
+          },
+          "_name": "features2",
+          "_customHTML": "<section class=\"features2\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background5.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"card p-3 col-12 col-md-6\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/morfosintaxia-676x676.png\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            _____________________________________________________________________________</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">• <a href=\"https://h5p.org/h5p/embed/558340\" target=\"_blank\">Edozer, zerbait, ezer\n</a><br>• <a href=\"https://h5p.org/h5p/embed/558929\" target=\"_blank\">Ez bezala eta ez bezalakoa\n</a><br>• <a href=\"https://h5p.org/h5p/embed/559122\" target=\"_blank\">Baita...ere eta ...ere bai\n</a><br>• <a href=\"https://h5p.org/h5p/embed/559152\" target=\"_blank\">Erdarazko ezker-izenondoen euskarazko baliokideak\n</a><br>• <a href=\"https://h5p.org/h5p/embed/559178\" target=\"_blank\">La, la, la\n</a><br>• <a href=\"https://h5p.org/h5p/embed/559191\" target=\"_blank\">Tearen ordua\n</a><br>• <a href=\"https://h5p.org/h5p/embed/559221\" target=\"_blank\">Kontuz egitura ustelekin!\n</a><br>• <a href=\"https://h5p.org/h5p/embed/559227\" target=\"_blank\">Konparazio faltsua\n</a><br>• <a href=\"https://h5p.org/h5p/embed/559254\" target=\"_blank\">Forma pasiboak (eta inpertsonalak)\n</a><br>• <a href=\"https://h5p.org/h5p/embed/559257\" target=\"_blank\">Ezezkoak. Agertu ez zenean\n</a><br>• <a href=\"https://h5p.org/h5p/embed/559261\" target=\"_blank\">Badago bat... handia dena</a>&nbsp;<br></p>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/berridazketak-676x676.png\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box \">\n                        <h4 class=\"card-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            _____________________________________________________________________________</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">• <a href=\"https://h5p.org/h5p/embed/558260\" target=\"_blank\">Berridazketak 1</a><br>• <a href=\"https://h5p.org/h5p/embed/558261\" target=\"_blank\">Berridazketak 2</a><br>• <a href=\"https://h5p.org/h5p/embed/558265\" target=\"_blank\">Berridazketak 3</a><br>• <a href=\"https://h5p.org/h5p/embed/558269\" target=\"_blank\">Berridazketak 4</a><br>• <a href=\"https://h5p.org/h5p/embed/558275\" target=\"_blank\">Berridazketak 5</a><br>• <a href=\"https://h5p.org/h5p/embed/558277\" target=\"_blank\">Berridazketak 6</a><br>• <a href=\"https://h5p.org/h5p/embed/558278\" target=\"_blank\">Berridazketak 7</a><br>• <a href=\"https://h5p.org/h5p/embed/558280\" target=\"_blank\">Berridazketak 8</a><br>• <a href=\"https://h5p.org/h5p/embed/558283\" target=\"_blank\">Berridazketak 9</a><br></p>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/okerrak-zuzentzen-676x676.png\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            _____________________________________________________________________________</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">• <a href=\"https://h5p.org/h5p/embed/558289\" target=\"_blank\">Okerrak zuzentzen 1</a><br>• <a href=\"https://h5p.org/h5p/embed/558292\" target=\"_blank\">Okerrak zuzentzen 2</a><br>• <a href=\"https://h5p.org/h5p/embed/558296\" target=\"_blank\">Okerrak zuzentzen 3</a><br>• <a href=\"https://h5p.org/h5p/embed/558298\" target=\"_blank\">Okerrak zuzentzen 4</a><br>• <a href=\"https://h5p.org/h5p/embed/558300\" target=\"_blank\">Okerrak zuzentzen 5</a><br>• <a href=\"https://h5p.org/h5p/embed/558303\" target=\"_blank\">Okerrak zuzentzen 6</a><br>• <a href=\"https://h5p.org/h5p/embed/558306\" target=\"_blank\">Okerrak zuzentzen 7</a><br>• <a href=\"https://h5p.org/h5p/embed/558309\" target=\"_blank\">Okerrak zuzentzen 8</a><br>• <a href=\"https://h5p.org/h5p/embed/558311\" target=\"_blank\">Okerrak zuzentzen 9</a><br>• <a href=\"https://h5p.org/h5p/embed/558314\" target=\"_blank\">Okerrak zuzentzen 10</a><br>• <a href=\"https://h5p.org/h5p/embed/558316\" target=\"_blank\">Okerrak zuzentzen 11</a><br>• <a href=\"https://h5p.org/h5p/embed/558319\" target=\"_blank\">Okerrak zuzentzen 12</a><br></p>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 3\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"../_images/background4.jpg\" alt=\"Mobirise\">\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Unlimited Sites\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                            Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app. <a href=\"https://mobirise.co\">Learn more...</a>\n                        </p>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rx9nJuc1IH",
+          "_anchor": "features2-i",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "Cloze-testak",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "P": {
+              "color": "#767676"
+            },
+            "H1": {
+              "color": "#cc1429"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#232323"
+            }
+          },
+          "_name": "header16",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#149dcc\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">CLOZE-TESTAK</h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Hizkuntzan trebatzen</b></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://www.euskaltzaindia.eus/index.php?option=com_hiztegianbilatu&view=frontpage&Itemid=410&lang=eu\" data-app-placeholder=\"Type Text\" target=\"_blank\">Euskaltzaindiaren hiztegia</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_cid": "rxg1aSBPV1",
+          "_anchor": "header16-j",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\">• </span><span style=\"font-style: normal;\"><a href=\"https://h5p.org/h5p/embed/559286\" target=\"_blank\">Cloze testa 1</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559303\" target=\"_blank\">Cloze testa 2</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559311\" target=\"_blank\">Cloze testa 3</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559322\" target=\"_blank\">Cloze testa 4</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559341\" target=\"_blank\">Cloze testa 5</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559379\" target=\"_blank\">Cloze testa 6</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559387\" target=\"_blank\">Cloze testa 7</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559389\" target=\"_blank\">Cloze testa 8</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559397\" target=\"_blank\">Cloze testa 9</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559413\" target=\"_blank\">Cloze testa 10</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559422\" target=\"_blank\">Cloze testa 11</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559427\" target=\"_blank\">Cloze testa 12</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559430\" target=\"_blank\">Cloze testa 13</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559434\" target=\"_blank\">Cloze testa 14</a></span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rxg1AEUnR0",
+          "_anchor": "content2-l",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "Atarikoak. Hausnarketa gramatikala",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "P": {
+              "color": "#767676"
+            },
+            "H1": {
+              "color": "#cc1429"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#232323"
+            }
+          },
+          "_name": "header16",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#149dcc\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">ATARIKOAK. Hausnarketa gramatikala</h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Hizkuntzan trebatzen</b></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://www.euskaltzaindia.eus/index.php?option=com_hiztegianbilatu&view=frontpage&Itemid=410&lang=eu\" data-app-placeholder=\"Type Text\" target=\"_blank\">Euskaltzaindiaren hiztegia</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_cid": "rxmgZBrrNb",
+          "_anchor": "header16-m",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559973\" target=\"_blank\">Atarikoa 1</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559974\" target=\"_blank\">Atarikoa 2</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559979\" target=\"_blank\">Atarikoa 3</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559981\" target=\"_blank\">Atarikoa 4</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559985\" target=\"_blank\">Atarikoa 5</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559987\" target=\"_blank\">Atarikoa 6</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/559997\" target=\"_blank\">Atarikoa 7</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/560043\" target=\"_blank\">Atarikoa 8</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/560056\" target=\"_blank\">Atarikoa 9</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/560058\" target=\"_blank\">Atarikoa 10</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/560062\" target=\"_blank\">Atarikoa 11</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/560063\" target=\"_blank\">Atarikoa 12</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/560065\" target=\"_blank\">Atarikoa 13</a></span></p><p><span style=\"font-style: normal;\">• <a href=\"https://h5p.org/h5p/embed/560070\" target=\"_blank\">Atarikoa 14</a></span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rxmgZCKqNR",
+          "_anchor": "content2-n",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
